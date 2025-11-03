@@ -33,11 +33,11 @@ indicating superior medical resource management.
 
 | File | Description |
 | :--- | :--- |
-| `data/raw/india_covid_data.csv` | Initial dataset containing state-wise daily case/death/recovery counts. [Link: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india] |
-| `data/raw/time_series_data.csv` | Supplementary dataset used for long-term time-series trend analysis. [Link: https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data] |
-| `data/raw/Indian_States.shx` | ESRI Shapefiles for creating the geographic choropleth map visualization in Tableau. [Link: https://www.kaggle.com/datasets/greeshmagirish/indian-states-shapefiles] |
+| `Data_Sources/covid_19_india.csv` | Initial dataset containing state-wise daily case/death/recovery counts. [Link: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india] |
+| `Data_Sources/StatewiseTestingDetails.csv` | Supplementary dataset used for long-term time-series trend analysis. [Link: https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data] |
+| `Data_Sources/Indian_States.shx` | ESRI Shapefiles for creating the geographic choropleth map visualization in Tableau. [Link: https://www.kaggle.com/datasets/greeshmagirish/indian-states-shapefiles] |
 | `Covid-19 in India detailed Analysis.twb` | The Tableau Packaged Workbook file, including the final data model, calculated fields, and dashboard layout. |
-| `assets/Covid-19_Analysis_India.png` | A static image of the final dashboard for quick viewing embedded in this README. |
+| `Visualizations/Covid-19_Analysis_India.png` | A static image of the final dashboard for quick viewing embedded in this README. |
 
 
 
