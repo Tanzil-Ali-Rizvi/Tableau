@@ -14,7 +14,7 @@ This project demonstrates an end-to-end analytical workflow, from data extractio
 | **Data Storage/Processing** | Spreadsheets (Excel/Google Sheets) | 'data/cleaned_data.csv' |
 | **Data Querying** | Basic Filtering/Calculations | Not applicable (Pre-cleaned data used) |
 | **Visualization/BI** | Tableau Public Desktop, Visualization | `Covid-19 in India detailed Analysis.twb` |
-| **Presentation** | Microsoft365 Powerpoint | **[Link to Explanatory Video/Presentation]** |
+| **Presentation** | Microsoft365 Powerpoint | **[(https://docs.google.com/presentation/d/1oYCdN_tn9GchlUGZ5xny-38lPUNxK_yMw5eIlOxjWIk/edit?usp=sharing)]** |
 
 ---
 
