@@ -7,7 +7,7 @@ This project demonstrates an end-to-end analytical workflow, from data extractio
 
 ---
 
-🛠️ Technologies & Tools
+🛠 Technologies & Tools
 
 | Component | Tool Used | File Location |
 | :--- | :--- | :--- |
